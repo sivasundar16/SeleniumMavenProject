@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1160" started-at="2017-09-22T18:11:40Z" finished-at="2017-09-22T18:11:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1160" started-at="2017-09-22T18:11:40Z" finished-at="2017-09-22T18:11:42Z">
+      <class name="com.learnMavenDemo.DemoTest">
+        <test-method status="PASS" signature="testGit()[pri:0, instance:com.learnMavenDemo.DemoTest@62ee68d8]" name="testGit" duration-ms="53" started-at="2017-09-22T23:41:42Z" finished-at="2017-09-22T23:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGit -->
+      </class> <!-- com.learnMavenDemo.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
